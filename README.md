@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Badkiran (Badriprasad Kiran)
 - 👀 I’m interested in becoming a Data Scientist who can derive revolutionary insights from any given data.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and the relavent technology surrounding it
 - 💞️ I’m looking to collaborate on current trending data science projects for aspiring Data Scientists
 - 📫 How to reach me ...on my email id Kiran.msvk@gmail.com
 
